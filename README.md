@@ -1,7 +1,7 @@
 - Bonjour, ici @th71
-- Touche à tout, électron libre, féru de Savoir et de sa transmission.
-- Passionné par le low-tech (#jesuisamish) et de l'usage raisonné des techniques numériques.👀 I’m interested in ...
-- J'apprends actuellement un peu de tout (pas assez de place pour tout mettre).
+- Touche à tout, électron libre, féru de savoirs et de leur transmission.
+- Passionné par le low-tech (#jesuisamish) et de l'usage raisonné des techniques numériques.
+- J'apprends actuellement un peu de tout (pas assez de place pour tout mettre) et aussi de rien 🙂.
 
 <!---
 th71/th71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
